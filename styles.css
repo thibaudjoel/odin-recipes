@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: thistle;
+}
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    font-size: 72px;
+}
+
+a {
+    color: mediumslateblue;
+    font-size: 32px;
+    font-weight:700;
+}
+

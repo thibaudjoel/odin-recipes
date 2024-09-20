@@ -14,4 +14,12 @@ a {
     font-size: 32px;
     font-weight:700;
 }
+.ingredients {
+    text-align: center;
+}
+.ingredients li{
+    display: inline;
+    box-sizing: content-box;
+    margin: 16px;
+}
 

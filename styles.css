@@ -17,9 +17,14 @@ a {
 .ingredients {
     text-align: center;
 }
-.ingredients li{
+.ingredients li {
     display: inline;
     box-sizing: content-box;
     margin: 16px;
+}
+
+.steps li {
+    box-sizing: content-box;
+    padding: 4px;
 }
 

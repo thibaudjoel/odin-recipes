@@ -28,3 +28,9 @@ a {
     padding: 4px;
 }
 
+.dish_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
